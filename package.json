@@ -1,0 +1,14 @@
+{
+  "name": "t3code-fractal-glass",
+  "version": "1.0.0",
+  "description": "Fractal Glass: the Backdrops scene by neverblinks as a theme for T3 Code",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node check.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.65.1"
+  }
+}
