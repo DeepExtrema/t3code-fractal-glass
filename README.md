@@ -6,9 +6,9 @@ a pane of vertical fluted glass, on near black. The glow completes one drift eve
 
 ![The glow drifting behind a T3 Code thread](media/glow.gif)
 
-The picture is drawn in code by neverblinks after a free Unsplash photo by universtock, and is not free to
-redistribute. This repository is private. Read [Credits and licence](#credits-and-licence) before you share it
-or make it public.
+The picture is drawn in code by neverblinks after a free Unsplash photo by universtock. This repository publishes
+it with permission from neverblinks. Read [Credits and licence](#credits-and-licence) before you copy the picture
+anywhere else.
 
 ## Screenshots
 
@@ -115,8 +115,8 @@ in `vendor/backdrops/COMMIT`. Upstream's terms are in `vendor/backdrops/LICENSE`
 - Anyone may use the theme for free, for any purpose. Nobody may redistribute the picture outside upstream's
   repository, sell it, or remove the credits, without permission.
 
-`theme.json` contains the picture, so those terms cover it. Ask neverblinks before you make this
-repository public or pass `theme.json` on.
+`theme.json` contains the picture, so those terms cover it. This repository publishes it with permission from
+neverblinks. Ask neverblinks before you copy the picture anywhere else.
 
 `build.mjs` and `check.mjs` are under the [MIT License](LICENSE). [NOTICE.md](NOTICE.md) has the details.
 

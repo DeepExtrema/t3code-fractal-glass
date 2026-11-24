@@ -22,8 +22,8 @@ From `ARTWORK.md`, for Fractal Glass:
 - Without permission, nobody may sell the picture or anything made from it, redistribute it outside
   upstream's repository, claim it as their own, or remove or hide the credits.
 
-The scene file and `theme.json` both contain the picture. This repository is private for that reason.
-Before you make it public or pass `theme.json` on, ask neverblinks.
+The scene file and `theme.json` both contain the picture. This repository publishes them with permission from
+neverblinks. Before you copy the picture anywhere else, ask neverblinks.
 
 ## This repository's own code
 
